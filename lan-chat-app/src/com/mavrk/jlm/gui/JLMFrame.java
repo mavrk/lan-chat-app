@@ -58,6 +58,7 @@ import javax.swing.JOptionPane;
  *
  * this class provides the gui front end for the JLM project
  */
+// trying to commit..
 public class JLMFrame extends javax.swing.JFrame {
 
     // a object reffernce of the Messenger
